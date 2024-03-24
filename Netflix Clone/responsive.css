@@ -1,0 +1,160 @@
+@media screen and (max-width: 1279px) {
+
+    .container {
+        max-width: calc(100% - 4rem);
+        margin: auto;
+    }
+    .download-card{
+        height: 20%;
+        width: 65%;
+    }
+}
+
+@media screen and (max-width: 959px) {
+    .container {
+        max-width: calc(100% - 3rem);
+        margin: auto;
+    }
+
+    .logo {
+        width: 5.56rem;
+        height: 1.5rem;
+    }
+
+    .language-box {
+        margin: -8px;
+    }
+
+    .title-text {
+        font-size: 1.9rem;
+        font-weight: 900;
+        /* letter-spacing: -0.5px !important; */
+        line-height: 2.4rem;
+        text-align: center;
+    }
+
+    .subtitle-text {
+        font-size: 1.125rem;
+        font-weight: 400;
+        /* letter-spacing: 0.5px !important; */
+        margin: 1rem 0 0;
+        text-align: center;
+    }
+
+    .form-heading {
+        font-size: 1.125rem;
+        font-weight: 400;
+        line-height: 1.875rem;
+    }
+
+    .email-input-container {
+        max-width: 36.625rem;
+        margin: 1rem auto 0;
+    }
+
+    .hero-section-img {
+        height: 31.75rem;
+    }
+
+    .big-feature {
+        flex-direction: column;
+        row-gap: 0;
+        align-items: center;
+        justify-content: center;
+    }
+    .big-feature-text{
+        width: 100%;
+    }
+    .big-feature-anime{
+        width: 93%;
+    }
+
+    .odd-section {
+        flex-direction: column;
+    }
+    .download-card{
+        width: 70%;
+    }
+
+    .faq-item{
+        font-size: 1.125rem;
+    }
+    details{
+        padding: 1rem 1.5rem;
+    }
+}
+
+@media screen and (max-width: 599px) {
+    /* .container {
+        max-width: calc(100% - 1.5rem);
+        margin: auto;
+    } */
+    select {
+        max-width: 0.0625rem;
+        padding-right: 1.75rem;
+    }
+
+    .hero-section-img {
+        /* height: 29.75rem; */
+        min-height: auto;
+    }
+
+    .hero-section-img img {
+        width: auto;
+        min-height: 100%;
+        overflow: hidden;
+        transform: none;
+    }
+    .hero-content-container{
+        padding: 7.875rem 0 4rem;
+    }
+
+    /* .form-content{
+        margin: 0.5rem auto 0;
+    } */
+    .email-input-container {
+        flex-direction: column;
+    }
+
+    input {
+        padding: 0.5rem 1rem;
+    }
+
+    .get-started-btn {
+        min-width: 10rem;
+        min-height: auto;
+        margin: 1rem auto 0;
+        font-size: 1.125rem;
+        padding: 0.5rem 1rem;
+    }
+
+    .download-card{
+        padding: 0.35rem 0.75rem;
+        height: 16%;
+        min-height: 4rem;
+    }
+    .downloading p {
+        font-size: 0.875rem;
+    }
+    
+    .downloading :nth-child(2) {
+        font-size: 0.775rem;
+    }
+    .footer-links div{
+        width: calc(50% - 20px);
+    }
+}
+
+@media screen and (max-width: 409px){
+    .footer-links div{
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 335px){
+    .hero-section-img {
+        height: 33.75rem;
+    }
+}
+
