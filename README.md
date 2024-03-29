@@ -8,4 +8,5 @@ Projects Using HTML, CSS and JavaScript
 4. Netflix Clone
 5. To-Do list
 6. Rock Paper Scissor
+7. Shoe Website
 
