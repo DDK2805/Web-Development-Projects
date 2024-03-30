@@ -9,4 +9,5 @@ Projects Using HTML, CSS and JavaScript
 5. To-Do list
 6. Rock Paper Scissor
 7. Shoe Website
+8. Weather app [API Integration]
 
