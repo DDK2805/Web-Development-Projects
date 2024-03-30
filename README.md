@@ -9,4 +9,5 @@ Projects Using HTML, CSS and JavaScript
 5. Rock Paper Scissor
 6. Shoe Website
 7. Weather app [API Integration]
+8. DK Fashion
 
