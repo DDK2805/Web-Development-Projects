@@ -10,4 +10,5 @@ Projects Using HTML, CSS and JavaScript
 6. Shoe Website
 7. Weather app [API Integration]
 8. DK Fashion
+9. Mobile design Fitness app
 
