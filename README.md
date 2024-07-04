@@ -1,7 +1,5 @@
 # Web-Development
 
-
-
 Projects Using HTML, CSS and JavaScript
 
 1. Amazon clone
