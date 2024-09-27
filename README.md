@@ -2,7 +2,6 @@
 This repository contains a collection of web development projects built using HTML, CSS, and JavaScript. Each project showcases different aspects of front-end development, including UI design, API integration, and interactivity.
 
 
-
 ## Projects
 
 1. **Amazon Clone**
