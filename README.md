@@ -4,7 +4,6 @@ This repository contains a collection of web development projects built using HT
 
 
 
-
 ## Projects
 
 1. **Amazon Clone**
